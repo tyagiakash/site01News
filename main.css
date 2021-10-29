@@ -104,7 +104,7 @@ footer div.sec2{
     font-family: serif;
 }
 h6{
-    opacity: 0.5;
+    opacity: 0.6;
 }
 .sec2{
     opacity: 0.7;
@@ -113,7 +113,7 @@ h6{
     opacity: 0.9;
 }
 .sec1 i:hover{
-    opacity: 0.5;
+    opacity: 0.6;
 }
 /* mobile version */
 .drop a{
